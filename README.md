@@ -41,7 +41,7 @@ Traduction, UEX, minage, salvage… tout y est, dans une interface fluide et int
 
 ## 🧰 Installation
 
-1. Rendez-vous sur la page des [releases](https://github.com/GerbyTV/PolyTool/releases).
+1. Rendez-vous sur la page des [releases](https://github.com/GerbyTV/PolyToolSC/releases).
 2. Téléchargez le fichier `PolyTool.exe`.
 3. Placez-le dans un dossier dédié.
 
