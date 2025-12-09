@@ -1,1 +1,1 @@
-   - Dispo sur [Microsoft Store]([https://uexcorp.space](https://discord.com/channels/467385385056468992/752201693432905758/1447916990445650072)
+   - Dispo sur [Microsoft Store](https://apps.microsoft.com/detail/9pggfwk00f48)
